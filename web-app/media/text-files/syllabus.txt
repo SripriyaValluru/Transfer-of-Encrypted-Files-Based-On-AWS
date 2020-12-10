@@ -1,0 +1,111 @@
+Unit I: Essays 
+
+1. How Should One Read a Book? by Virginia Woolf (comp.)
+2. Making Writing Simple by J.B. Priestley  (comp. )
+3. You’ve Got to Find What You Love by Steve Jobs  (comp.)
+
+Unit II: Short Stories 
+
+1. The Shroud by Munshi Premchand (comp.)
+2. The Canterville Ghost by Oscar Wilde (comp.)
+3. The Parsons Pleasure by Roald Dahl(comp.)
+
+Unit III: Poems 
+
+1. I Sit and Look Out by Walt Whitman (comp.)
+2. My Grandmother’s House by Kamla Das(comp.)
+
+Unit IV: Drama
+
+1. The History of Why the Chicken Crossed the Road by Jennye James (comp.)
+2. Heart in the Ground by douglas hill (comp.)
+
+
+-------------
+English:
+
+One Act Plays:
+
+1. Brevity
+
+2. Unity of Action-  focus on one incident
+
+3. Unity of Time
+
+4. Unity of Place
+
+5.Lack of exposition
+
+6. Minimal number of characters
+
+7.Characters may speak in a dialect
+
+Dramatic structure:
+1. Exposition
+2. Rising action
+3.Climax- The climax is the turning point, which changes the protagonist’s fate.
+4. Falling action
+5. Denouement-the final part of a play, film, or narrative in which the strands of the plot are drawn together and matters are explained or resolved.
+
+
+chemistry:
+iron or steel with a protective layer of zinc --galvanizing
+oxidising of aluminium and magnesium -- anodizing
+
+
+--------------
+Data structures:(((completed)))
+
+The following topics include all the operations with their algorithms:
+1. Linked list –
+a. Singly
+b. Doubly
+c. Circular Singly
+d. Circular Doubly
+
+2. Sorting
+a.Bubble
+b. Insertion
+c. Selection
+d. Merge
+e. Quick
+f. Bucket
+g. Radix
+
+3. Trees
+a.Binary trees
+b. Tree Traversal - Preorder, Inorder, Postorder and Level order
+c. Binary Search Tree
+d. AVL Tree
+
+
+
+---------------------------
+chemistry:
+
+hard soap contains excess water --normal impurity
+Spectroscopy is the study of the interaction between matter and electromagnetic radiation. 
+IR spectra is absorption spectra
+
+--------------------------------------------------------------------------
+The frog and the nightingale - Describes about the behaviour of the human society through animal characters.
+
+
+--------------------------------------------------
+THE BET
+THE HOME COMING
+THE GROUND
+CANTERVILLE GHOST 
+SHROUD
+FURNITURE
+THE MOMENT OF ETERNITY
+THE PARSONS PLEASURE
+
+
+
+________________________________________________________________________________________________________
+
+set path = "copy address"
+cd Desktop
+javac hello.java
+hello.java

@@ -1,0 +1,20 @@
+BIOINFORMATICS -  the science of collecting and analysing complex biological data such as genetic codes.
+This sequence information is analyzed to determine genes that encode proteins, RNA genes, regulatory sequences, structural motifs, and repetitive sequences.
+
+
+Amino acids are organic compounds containing amine (-NH2) and carboxyl (-COOH) functional groups, along with a side chain (R group) specific to each amino acid.
+20 amino acids appear in the genetic code.
+
+**Protein sequencing is the practical process of determining the amino acid sequence of all or part of a protein or peptide. 
+
+1.It is the projection on a plane of a sequence assuming it is folded as an alpha helix.,which is a spiral structure.....
+
+  ((The alpha helix (a-helix) is a spiral structure, tightly packed, coiled polypeptide.))
+
+    here is the structure of....  Helical Wheel for the model peptide system, where hydrophobic (yellow), basic (blue) and acidic (red) are highlighted.
+
+2.It is the graph b/w the amino acids of protein on x- axis and 
+
+  The hydrophobic moment detects periodicity in protein hydrophobicity.
+
+3.It is a sequence with no clear evolutionary relationship i.e phylogenetic with any known sequence.
