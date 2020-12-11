@@ -27,7 +27,7 @@ def generate_private_key(length):
 		#TODO: Can use Crypto library hash functions
 		hex_key = binascii.b2a_hex(os.urandom(_bytes))
 		#Convert to denary format
-		_rand = int(hex_key.encode('hex'),16)
+		_rand = int(hex_key.encode('hex') ,16)
 	#Update object
 	private_key = _rand
 	return private_key
