@@ -10,18 +10,18 @@ OPEN FILE AND DIRECTORY
 -----------------------------------------------------------------
 '''
 def openfileEnc():
-	filename = tkinter.filedialog.askopenfilename(initialdir = "/home/parth/Desktop",title = "Select file",filetypes = (("text files","*.txt"),("all files","*.*")))
+	filename = tkinter.filedialog.askopenfilename(initialdir = "/home/sripriya/Desktop",title = "Select file",filetypes = (("text files","*.txt"),("all files","*.*")))
 	fileToEncrptyEntryUpdate(filename)
 
 def opendirectoryEnc():
-	directory = tkinter.filedialog.askdirectory(initialdir = "/home/parth/Desktop",title = "Select directory")
+	directory = tkinter.filedialog.askdirectory(initialdir = "/home/sripriya/Desktop",title = "Select directory")
 	destinationFolderEncEntryUpdate(directory)
 
 def openfileDec():
-	filename = tkinter.filedialog.askopenfilename(initialdir = "/home/parth/Desktop",title = "Select file",filetypes = (("text files","*.txt"),("all files","*.*")))
+	filename = tkinter.filedialog.askopenfilename(initialdir = "/home/sripriya/Desktop",title = "Select file",filetypes = (("text files","*.txt"),("all files","*.*")))
 	fileToDecryptEntryUpdate(filename)	
 def opendirectoryDec():
-	directory = tkinter.filedialog.askdirectory(initialdir = "/home/parth/Desktop",title = "Select directory")
+	directory = tkinter.filedialog.askdirectory(initialdir = "/home/sripriya/Desktop",title = "Select directory")
 	destinationFolderDecEntryUpdate(directory)
 '''
 -----------------------------------------------------------------
@@ -35,7 +35,7 @@ def recievefilepage():
 	webbrowser.open_new(r"http://127.0.0.1:5000/file-directory")
 
 def opengithub(event):
-	webbrowser.open_new(r"https://github.com/SripriyaValluru/Secure-text-transfer-using-Diffie-Hellman-key-based-on-cloud")
+	webbrowser.open_new(r"https://github.com/SripriyaValluru/Transfer-of-Encrypted-Files-Based-On-AWS.git")
 
 def opensravslinkedin(event):
 	webbrowser.open_new(r"https://www.linkedin.com/in/upparapalli-sravani-59a82415b")
