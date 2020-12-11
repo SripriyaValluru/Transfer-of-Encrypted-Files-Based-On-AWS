@@ -16,19 +16,19 @@ pip install flask
 ```
 
 #### To run the GUI:
-
+```
 Go to gui: cd gui
-For windows: python main.py
+For Windows: python main.py
 For linux: python3 main.py
-
+```
 ### To run the web application:
-
+```
 It works only on Linux as we have used AWS EC2 LINUX machine.
 Go to linux machine:
 Go to web-app: cd web-app
 command: python app.py
 Open the port.
-
+```
 ## PROJECT
 
 This implementation can be explained in two parts
